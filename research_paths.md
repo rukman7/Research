@@ -10,7 +10,7 @@ Every resource has a policy assigned to it. A policy can be thought of as a set 
 
 ## Changes to the Policy
 
-As the system grows, new users & new resources will be created which would leads to creating new set of attributes which require updates to the existing policies or creating new ones. 
+As the system grows, new users & new resources will be created which would lead to creating new set of attributes which require updates to the existing policies or creating new ones. 
 
 
 ## Testing the system
