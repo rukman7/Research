@@ -131,6 +131,15 @@ Axioms
 
 The main component of an OWL 2 ontology is a set of axioms — statements that say what is true in the domain. OWL 2 provides an extensive set of axioms, all of which extend the Axiom class in the structural specification. Axioms in OWL 2 can be declarations, axioms about classes, axioms about object or data properties, datatype definitions, keys, assertions (sometimes also called facts), and axioms about annotations.
 
+The main axioms are: class, object property and data property
+
+## OWL 2
+
+-  No individual can be associated with more than 1 class.
+
+-  OWL is just like a specification like XML which would help computer understands things.
+
+## OWl available in python ??
 
 ## Useful links and resources
 
@@ -157,3 +166,9 @@ The main component of an OWL 2 ontology is a set of axioms — statements that s
 7. Creating ontology using protege
 
 [https://youtu.be/CduRWyyL3q8](https://youtu.be/CduRWyyL3q8)
+
+8. Exposing OWL
+[https://protege.stanford.edu/conference/2006/submissions/slides/OWLTutorial_Part1.pdf](https://protege.stanford.edu/conference/2006/submissions/slides/OWLTutorial_Part1.pdf)
+
+9. IEEE - Represent ABAC in owl
+[https://ieeexplore.ieee.org/document/7439358](https://ieeexplore.ieee.org/document/7439358)
