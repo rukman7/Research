@@ -101,6 +101,13 @@ Behaviour driven approaches:
 
      Yet to fully explore this.
 
+## XACML
+
+XACML is an extension of XML that is used to represent ABAC policies.
+
+XACML makes ABAC difficuilt to implement to maintain
+[https://www.linkedin.com/pulse/abac-xacml-where-does-complexity-come-from-borja-roux-lorenzo/](https://www.linkedin.com/pulse/abac-xacml-where-does-complexity-come-from-borja-roux-lorenzo/)
+
 ## Ontology
 
 - Address questions related to categorizing, classification and explanation of entities
@@ -141,6 +148,11 @@ The main axioms are: class, object property and data property
 
 ## OWl available in python ??
 
+
+## Other ideas and notes
+
+1. Standardization of ABAC through OWL?
+
 ## Useful links and resources
 
 1. NGAC - Next Generation Access control
@@ -172,3 +184,6 @@ The main axioms are: class, object property and data property
 
 9. IEEE - Represent ABAC in owl
 [https://ieeexplore.ieee.org/document/7439358](https://ieeexplore.ieee.org/document/7439358)
+
+10. Introduction to XACML
+[https://www.techtarget.com/searchcio/definition/XACML](https://www.techtarget.com/searchcio/definition/XACML)
